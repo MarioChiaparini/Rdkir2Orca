@@ -1,0 +1,14 @@
+/Users/mariochiaparini/Desktop/Rdkir2Orca/Molecules/benzene_sulfuric_acid.gbw 
+0 
+1 
+0 
+$constraints
+ 0
+ 0
+ 1 6
+      1      0      0     -1     -1      2   2.93852414
+
+
+$autoAddFragBonds
+ 10
+   5.00000000

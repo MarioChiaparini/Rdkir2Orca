@@ -1,0 +1,6 @@
+# avogadro generated ORCA input file
+# Basic Mode
+!B3LYP DEF2-SVP D4 NEB-TS FREQ
+%NEB NEB_END_XYZFILE "/Users/mariochiaparini/Desktop/Rdkir2Orca/Molecules/product.xyz" END
+
+* XYZfile 0 1 /Users/mariochiaparini/Desktop/Rdkir2Orca/Molecules/reactant.xyz
